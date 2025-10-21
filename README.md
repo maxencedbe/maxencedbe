@@ -1,22 +1,46 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:0ea5e9&height=200&section=header&text=Maxence%20Debes&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E293B,100:06B6D4&height=200&section=header&text=Maxence%20Debes&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
 
 ---
 
 ### About Me
 
-I'm a **Master’s student in data science at Ecole Polytechnique (France)**, with a strong background in **mathematics**, **computer science**, and **machine learning**.  
-I’m passionate about **Artificial Intelligence** and **machine learning**, and I enjoy exploring how these technologies can be applied to solve real-world problems.  
-I'm currently looking for a **6-month internship** in **AI/machine learning** for **spring–summer 2026**.
+- **MSc Data Science student at Ecole Polytechnique (France)** with a strong background in mathematics, computer science, and machine learning.  
+- Passionate about **Artificial Intelligence** and **machine learning**, and eager to apply these technologies to solve real-world problems.  
+- Currently seeking a **6-month internship** in **AI/machine learning** for **spring–summer 2026**.
 
 ---
 
 ### Technical skills
 
-**Languages:** Python, Java, SQL, Bash, HTML/CSS  
-**Frameworks & Libraries:** PyTorch, scikit-learn, NumPy, pandas, Matplotlib  
-**Tools:** Git, Linux, LaTeX, MS Office
+<p align="center">
+  <!-- Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="SQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" height="50" alt="Bash"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS"/>
+</p>
+
+<p align="center">
+  <!-- Frameworks & Libraries -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" height="50" alt="PyTorch"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50" alt="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50" height="50" alt="Matplotlib"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50" height="50" alt="Scikit-learn"/>
+</p>
+
+<p align="center">
+  <!-- Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="50" height="50" alt="LaTeX"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50" height="50" alt="Windows"/>
+</p>
 
 ---
 
