@@ -1,4 +1,3 @@
-<!-- Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:0ea5e9&height=200&section=header&text=Maxence%20Debes&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="header"/>
 </p>
@@ -7,21 +6,21 @@
 
 ### About Me
 
-I'm a **Master’s student in Data Science at École Polytechnique (France)**, with a strong background in **mathematics**, **computer science**, and **machine learning**.  
-My interests focus on **AI**, **deep learning**, and **data-driven optimization**.  
-Currently looking for a **6-month internship** in **AI/Machine Learning** for **Spring–Summer 2026**.
+I'm a **Master’s student in data science at Ecole Polytechnique (France)**, with a strong background in **mathematics**, **computer science**, and **machine learning**.  
+I’m passionate about **Artificial Intelligence** and **machine learning**, and I enjoy exploring how these technologies can be applied to solve real-world problems.  
+I'm currently looking for a **6-month internship** in **AI/machine learning** for **spring–summer 2026**.
 
 ---
 
-### Technical Skills
+### Technical skills
 
 **Languages:** Python, Java, SQL, Bash, HTML/CSS  
 **Frameworks & Libraries:** PyTorch, scikit-learn, NumPy, pandas, Matplotlib  
-**Tools:** Git, Linux, LaTeX, VS Code, Jupyter  
+**Tools:** Git, Linux, LaTeX, MS Office
 
 ---
 
-### GitHub Insights
+### GitHub insights
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maxencedbe&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
@@ -30,7 +29,7 @@ Currently looking for a **6-month internship** in **AI/Machine Learning** for **
 
 ---
 
-### Connect with Me
+### Connect with me
 
 <p align="center">
   <a href="https://maxencedbe.github.io">
@@ -45,10 +44,6 @@ Currently looking for a **6-month internship** in **AI/Machine Learning** for **
 </p>
 
 ---
-
-<p align="center">
-  <i>"Learn by doing — and build what you can’t yet explain."</i>
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=maxencedbe&style=flat-square&color=0ea5e9" alt="profile views"/>
