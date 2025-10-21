@@ -4,7 +4,7 @@
 
 ---
 
-### About Me
+### About me
 
 - **MSc Data Science student at Ecole Polytechnique (France)** with a strong background in mathematics, computer science, and machine learning.  
 - Passionate about **Artificial Intelligence** and **machine learning**, and eager to apply these technologies to solve real-world problems.  
@@ -44,7 +44,7 @@ Git · Linux · LaTeX · MS Office
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:maxence.debes@polytechnique.edu">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-contact-grey?style=for-the-badge" alt="Email"/>
   </a>
 </p>
 
