@@ -44,7 +44,7 @@ Git · Linux · LaTeX · MS Office
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:maxence.debes@polytechnique.edu">
-  <img src="https://img.shields.io/badge/Email-contact-grey?style=for-the-badge" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-grey?style=for-the-badge" alt="Email"/>
   </a>
 </p>
 
