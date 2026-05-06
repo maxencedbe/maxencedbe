@@ -27,10 +27,7 @@ Git · Linux · LaTeX · MS Office
 
 ### GitHub insights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maxencedbe&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxencedbe&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=maxencedbe&theme=tokyonight&hide_border=true" height="150" />
 
 ---
 
