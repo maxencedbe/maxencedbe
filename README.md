@@ -1,8 +1,8 @@
 ### About me
 
-- **MSc Data Science student at École Polytechnique (France)** with a strong background in mathematics, computer science, and machine learning.
-- Passionate about **Artificial Intelligence** and **machine learning**, and eager to apply these technologies to solve real-world problems.
-- Currently a **Data Science Intern at [ChemAI](https://chemai.io/)**, building a graph database of 30M+ chemical reactions and training models on top of it.
+- **MSc Data Science student at École Polytechnique (France)** with a strong background in Mathematics, Computer Science, and Machine Learning.
+- Passionate about **Artificial Intelligence** and **Machine Learning**, and eager to apply these technologies to solve real-world problems.
+- More about my work: [maxencedbe.github.io](https://maxencedbe.github.io)
 
 ### Connect with me
 
