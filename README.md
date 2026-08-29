@@ -1,16 +1,10 @@
-## Hi, I'm Maxence 👋
+### About me
 
-MSc Data Science student at École Polytechnique (Institut Polytechnique de Paris),
-with a background in mathematics and computer science. I work mostly on machine
-learning and AI, and enjoy turning hard technical problems into robust, data-driven
-solutions in Python.
+- **MSc Data Science student at École Polytechnique (France)** with a strong background in mathematics, computer science, and machine learning.
+- Passionate about **Artificial Intelligence** and **machine learning**, and eager to apply these technologies to solve real-world problems.
+- Currently a **Data Science Intern at [ChemAI](https://chemai.io/)**, building a graph database of 30M+ chemical reactions and training models on top of it.
 
-- 🔬 Currently a Data Science Intern at [ChemAI](https://chemai.io/) — building a
-  graph database of 30M+ chemical reactions and training models on top of it.
-- 🎓 Also studying at Télécom SudParis (Computer Science & Applied Mathematics).
-- 🌐 More about my work: [maxencedbe.github.io](https://maxencedbe.github.io)
-
-### Links
+### Connect with me
 
 [Portfolio](https://maxencedbe.github.io) ·
 [LinkedIn](https://linkedin.com/in/maxence-debes) ·
