@@ -1,6 +1,7 @@
 ### About me
 
-MSc Data Science student at École Polytechnique (France) with a strong background in Mathematics, Computer Science, and Machine Learning. Passionate about Artificial Intelligence and Machine Learning, and eager to apply these technologies to solve real-world problems.
+- 🎓 **MSc Data Science student at École Polytechnique (France)** with a strong background in Mathematics, Computer Science, and Machine Learning.
+- 🤖 Passionate about **Artificial Intelligence** and **Machine Learning**, and eager to apply these technologies to solve real-world problems.
 
 ### Connect with me
 
